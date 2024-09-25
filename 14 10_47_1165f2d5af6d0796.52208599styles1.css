@@ -1,0 +1,18 @@
+body {
+    font-size: 24px;
+}
+span.black {
+    color: black;
+}
+span.black {
+    color: black;
+}
+p.bold {
+    font-style: bold;
+}
+p.bold.italic {
+    font-style: bold italic;
+}
+p.italic {
+    font-style: italic;
+}
